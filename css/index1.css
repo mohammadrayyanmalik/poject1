@@ -1,0 +1,327 @@
+/* body
+{
+  
+   
+   
+} */
+.firstdiv
+{
+    background-image:url(../img/lynx_in_space\ \(1\).webp),  url(../img/background_in_space.webp);
+    background-repeat: no-repeat, repeat;
+    background-position: 90% 60%, center center;
+    padding-bottom: 90px;
+     color: white;
+     text-align: center;
+     font-size: larger;
+     height: 800px;
+}
+
+
+.mainnav{
+    margin: 0%;
+}
+
+ .mainlu
+{
+    margin:0px;
+    padding: 0px;
+}
+/*.box{
+    padding-right: 750px;  
+}*/
+
+
+/* .submit{
+    float:;
+} */
+
+
+
+
+ #mainli1 a:hover
+    {
+        background-color: #04AA6D;
+
+
+    }
+ 
+ #mainli2 a:hover
+    {
+        background-color: #04AA6D;
+
+    }
+ 
+           
+ #mainli3 a:hover
+ {
+     background-color: #04AA6D;
+ }
+           
+ #mainli4 a:hover
+ {
+     background-color: #04AA6D;
+     
+ }
+ 
+  .btntop a:hover
+ {
+    color: aliceblue;
+    background-color: black;
+    /* text-decoration:white; */
+    display: inline-block;
+    width: auto;
+    margin: 0 !important;
+    padding: 5px 15px 5px 15px !important;
+    font-size: 15px !important;
+    
+    line-height: 1.5;
+    scrollbar-width: 0px;
+
+    
+ } 
+ .btntop{
+    color: aliceblue;
+    background-color:#21b86c;
+    
+ } 
+ #paragraph1
+ {
+    color: white;
+    margin-top:100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    font-size:70px;
+ }
+#paragraph2
+{
+    color: yellow;
+    text-align: center;
+    font-size: 26px;
+    margin: 0px;
+}
+
+
+.htmlsearch input[type=text] {
+margin-top: 20px;
+width: 500px;
+padding: none;
+float:center;
+font-size: 24px;
+border-radius: 20PX 20px 20px 20PX;
+
+
+}
+     
+form.htmlsearch button {
+    border-radius: 0 20px 20px 0;
+    width: 80px;
+    height: 40px;
+    margin-top: 21px;
+    padding: none;
+    background: #04AA6D;
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    right: 390px;
+    cursor: pointer;
+    border: none;
+}
+
+
+#secondpage
+{   background-color: #D9EEE1;
+    width: 100%;
+    height: 500px;
+
+}
+#secondpage1
+{
+    width: 500px;
+}
+
+
+#secondpage1 h1
+{
+    font-size: 100px;
+    text-align: center;
+    padding-top:90PX ;
+    font-weight: bold;
+}
+#secondpage1 h5
+{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.anchor {
+    position: absolute;
+    left: 155px;
+    background-color:transparent;
+    border-radius: none;
+ }
+    
+    
+
+.anchor1
+{
+    display: block;
+    margin-top: 10px;
+    background-color: #04AA6D;
+    border-radius: 20px;
+    
+}
+
+.anchor2
+{
+    display: block;
+    margin-top: 10px;
+    background-color: #04AA6D;
+    border-radius: 20px;
+    
+
+
+}
+
+.anchor3
+{
+    display: block;
+    margin-top: 10px;
+    background-color: #04AA6D;
+    border-radius: 20px;
+
+
+}
+
+.anchor4
+{
+    display: block;
+    margin-top: 10px;
+    background-color: #04AA6D;
+    border-radius: 20px;
+
+
+}
+
+
+.card
+{
+    border: 2px solid black;
+    position: absolute;
+    left: 900px;
+    top:880px;
+
+    
+}
+
+/* #secondpage1 button
+{
+    background-color: #04AA6D;
+   color: brown;
+    width: 150px;
+    position: relative;
+    left: 250px;
+    
+} */
+
+ .thirdpage
+ {
+    width: 100%;
+    height: 600px;
+    background-color: #FFF4A3;
+ }
+#thirdpage1{
+    width: 50%;
+    height: 600px;
+}
+
+ #thirdpage1 h1
+ {
+    display: inline-block;
+    padding: none;
+    margin: none;
+    font-size: 150px;
+    position: absolute;
+    left: 300px;
+    margin-top: 100px;
+    font-weight: 600;
+}
+#thirdpage1 h3{
+    display: inline-block;
+    padding:none ;
+    margin-top: 270px;
+    position: absolute;
+    left:230px ;
+}
+
+.card1
+{
+    border: 2px solid black;
+    position: absolute;
+    left: 900px;
+    top:1420px;
+
+    
+}
+
+.forthpage
+{
+    display: block;
+    width: 100%;
+    height: 700px;
+    position:relative;
+
+    bottom: 0%;
+    background:rgba(217, 213, 236, 0.945);
+    
+}
+
+.forthpage1
+{   width: 90%;
+    height: 100px;
+    display: inline-block;
+    margin: 100px;
+    
+}
+
+.a1{
+    padding-left: 100px;
+}
+
+.a2{
+    padding-left: 80px;
+    color: rgba(9, 189, 84, 0.952);
+}
+
+.a3{
+    padding-left: 80px;
+    color: rgba(9, 189, 84, 0.952);
+}
+
+.a4{
+    padding-left: 80px;
+    color: rgba(9, 189, 84, 0.952);
+}
+
+.a5{
+    padding-left: 80px;
+    color: rgba(9, 189, 84, 0.952);
+}
+
+.a6{
+    padding-left: 80px;
+    color: rgba(9, 189, 84, 0.952);
+}
+
+.forthpage2{
+   
+    margin: 0px 100px 100px 100px;
+    text-align: center;
+    
+}
+
+.forthpage2 a{
+    color: rgba(9, 189, 84, 0.952);
+
+    
+}
