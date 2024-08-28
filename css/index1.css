@@ -342,3 +342,11 @@ footer p{
 footer a {
     color:rgb(249, 252, 84);
 }
+.icon
+{
+    color: white; 
+    padding-left: 170px;
+}
+.icon a{
+    color: white;
+}
