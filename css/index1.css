@@ -325,3 +325,20 @@ form.htmlsearch button {
 
     
 }
+
+
+.footer{
+    background-image: url(../img/background_in_space.webp);
+    
+}
+
+footer p{
+
+    color:white;
+    font-size: 13px;
+    padding: 0%;
+
+}
+footer a {
+    color:rgb(249, 252, 84);
+}
