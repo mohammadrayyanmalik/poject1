@@ -16,6 +16,24 @@
      height: 800px;
 }
 
+.Registration{
+border: 1px solid black;
+border-radius: 20px;
+width: 100px;
+background-color: #04AA6D;
+
+}
+
+.Login{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100px;
+    background-color: #04AA6D;
+    
+    }
+
+
+
 
 .mainnav{
     margin: 0%;
@@ -122,7 +140,7 @@ form.htmlsearch button {
     color: white;
     font-size: 24px;
     position: absolute;
-    right: 390px;
+    right: 425px;
     cursor: pointer;
     border: none;
 }
@@ -205,7 +223,8 @@ form.htmlsearch button {
 
 
 .card
-{
+{   
+    
     border: 2px solid black;
     position: absolute;
     left: 900px;
@@ -256,10 +275,11 @@ form.htmlsearch button {
 
 .card1
 {
-    border: 2px solid black;
+    border: 1px solid black;
     position: absolute;
     left: 900px;
     top:1420px;
+    background-color: white;
 
     
 }
